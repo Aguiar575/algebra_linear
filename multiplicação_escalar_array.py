@@ -1,0 +1,1 @@
+mult_escalar = notas * 0.5
